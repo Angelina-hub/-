@@ -1,0 +1,4 @@
+Student{Id = 3, Surname = 'Belov', Name = 'Dan', Group = '3', Department = '3', Discipline = 'AOC', Mark = 8, TeacherName = 'Denis'}
+Student{Id = 4, Surname = 'Genov', Name = 'Gena', Group = '4', Department = '4', Discipline = 'YKC', Mark = 4, TeacherName = 'Gary'}
+Student{Id = 2, Surname = 'Ionova', Name = 'Arina', Group = '2', Department = '2', Discipline = 'Rus', Mark = 2, TeacherName = 'Irina'}
+Student{Id = 1, Surname = 'Shoronov', Name = 'Ivan', Group = '1', Department = '1', Discipline = 'Mat', Mark = 1, TeacherName = 'Anton'}
